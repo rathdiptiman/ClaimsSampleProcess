@@ -4,6 +4,8 @@ Repository Init Content
 
 Sample payload to start JBPM Process
 
+http://localhost:8080/kie-server/services/rest/server/containers/claimsSampleProcess_1.0.0/processes/ClaimsSampleProcess.claims-sam-process/instances
+
 {
     
     "claims": {
